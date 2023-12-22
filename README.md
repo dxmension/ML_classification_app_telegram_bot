@@ -1,1 +1,1 @@
-# CVD_predictor
+Web application for ML classification and data visualization
